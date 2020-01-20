@@ -19,6 +19,7 @@ public class Shape {
     private Color color;
     
     /**@param xValue the x coordinate for the shape.
+     @param yValue the y coordinate for the shape.
      @param radiusValue the radius value for the shape.
      @param r the red color value for the shape.
      @param g the green color value for the shape.

@@ -17,6 +17,8 @@ import javafx.scene.input.MouseEvent;
 
 /**
  * @author Jordan Jancic, 000269500
+ * Assignment 8
+ * Professor: John Weber
  * Date Completed: April 14, 2018
  */
 public class Assignment8 extends Application {

@@ -1,4 +1,4 @@
-package assignment8;
+package javaFXPaintClone;
 
 /**Imports the necessary Java utilities for this GUI application*/
 import javafx.application.Application;
@@ -17,11 +17,9 @@ import javafx.scene.input.MouseEvent;
 
 /**
  * @author Jordan Jancic, 000269500
- * Assignment 8
- * Professor: John Weber
  * Date Completed: April 14, 2018
  */
-public class Assignment8 extends Application {
+public class JavaFXPaintClone extends Application {
     /**Instance variables for the main method.*/
     private Shape shape;
     private GraphicsContext gc;

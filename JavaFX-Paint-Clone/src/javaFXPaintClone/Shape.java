@@ -1,7 +1,7 @@
 /*
  * This is the shape object class. This is where the shape is configured.
  */
-package assignment8;
+package javaFXPaintClone;
 /**imports all necessary java utilities*/
 import javafx.scene.paint.Color;
 
